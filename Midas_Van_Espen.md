@@ -36,4 +36,14 @@ link to heroku:
 https://midasve-lab4-nodejs.herokuapp.com/kweeni  
   
 link to repo:  
-https://github.com/MidasVE/lab4-nodejs
+https://github.com/MidasVE/lab4-nodejs  
+  
+# Week 5  
+  
+## Sockets  
+  
+link to heroku:  
+https://midasve-lab5-sockets.herokuapp.com/  
+  
+link to repo:  
+https://github.com/MidasVE/lab5-sockets  
