@@ -50,6 +50,6 @@ https://github.com/MidasVE/lab5-sockets
 
 # MongoDB University
 
-week 5 progress:
-![alt text](https://image.ibb.co/dhdUBx/mongodbuni.jpg)
+certificate received
+![alt text](https://image.ibb.co/iDAh6J/Mongo_DB_Certificate.jpg)
 
